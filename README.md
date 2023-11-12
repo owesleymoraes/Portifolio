@@ -25,13 +25,15 @@ Este projeto é focado principalmente em HTML e CSS, demonstrando minha habilida
 Nesta versão inicial, estabeleci apenas o header da página.
 
 ![Versão 1.0.0](img/header-portifolio.png)
+![Versão 1.0.1](img/introducao-portifolio.png)
 
 ### Próximos Passos
 Estou constantemente evoluindo este projeto. Os próximos passos incluem:
 
-- introdução.
-- conteúdos e habilidades.
-- informações pessoais.
+- header.                    (X)
+- introdução.                (X)
+- Experiência e habilidades. ( )
+- informações pessoais.      ( )
 
 Fique atento para futuras atualizações e melhorias!
 
