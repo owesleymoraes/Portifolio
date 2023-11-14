@@ -26,6 +26,7 @@ Nesta versão inicial, estabeleci apenas o header da página.
 
 ![Versão 1.0.0](img/header-portifolio.png)
 ![Versão 1.0.1](img/introducao-portifolio.png)
+![Versão 1.0.2](img/experience-portifolio.png)
 
 ### Próximos Passos
 Estou constantemente evoluindo este projeto. Os próximos passos incluem:
