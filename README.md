@@ -35,13 +35,18 @@ Nesta versão, foi desenvovido uma breve introdução sobre mim como desenvolved
 Nesta versão, foi desenvovido minhas experiências como desenvolvedor de software.
 ![Versão 1.0.2](img/experience-portifolio.png)
 
+### Versão Atual: 1.0.3
+Nesta versão, foi desenvovido minhas competências como desenvolvedor de software.
+![Versão 1.0.2](img/competence-portifolio.png)
+
 ### Próximos Passos
 Estou constantemente evoluindo este projeto. Os próximos passos incluem:
 
 - header.                    (X)
 - introdução.                (X)
 - Experiência                (X)
-- Competências               ( )
+- Competências               (X)
+- Formação                   (X)
 - informações pessoais.      ( )
 
 Fique atento para futuras atualizações e melhorias!
