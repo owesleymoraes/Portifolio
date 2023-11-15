@@ -21,11 +21,18 @@ Como desenvolvedor, tenho experiência em:
 Este projeto é focado principalmente em HTML e CSS, demonstrando minha habilidade em criar interfaces web atrativas,funcionais e responsivas.
 
 ## Progresso do Projeto
+
 ### Versão Atual: 1.0.0
 Nesta versão inicial, estabeleci apenas o header da página.
 
 ![Versão 1.0.0](img/header-portifolio.png)
+
+### Versão Atual: 1.0.1
+Nesta versão, foi desenvovido uma breve introdução sobre mim como desenvolvedor.
 ![Versão 1.0.1](img/introducao-portifolio.png)
+
+### Versão Atual: 1.0.2
+Nesta versão, foi desenvovido minhas experiências como desenvolvedor de software.
 ![Versão 1.0.2](img/experience-portifolio.png)
 
 ### Próximos Passos
@@ -33,10 +40,11 @@ Estou constantemente evoluindo este projeto. Os próximos passos incluem:
 
 - header.                    (X)
 - introdução.                (X)
-- Experiência e habilidades. ( )
+- Experiência                (X)
+- Competências               ( )
 - informações pessoais.      ( )
 
 Fique atento para futuras atualizações e melhorias!
 
 ## Contato
-Se você quiser saber mais sobre este projeto ou trocar ideias sobre desenvolvimento web, entre em contato comigo em [https://github.com/owesleymoraes/Portifolio](GitHub_do_Projeto).
+Se você quiser saber mais sobre este projeto ou trocar ideias sobre desenvolvimento web, entre em contato comigo em [https://www.linkedin.com/in/owesleymoraes/](Linkedin).
