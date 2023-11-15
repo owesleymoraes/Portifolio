@@ -1,8 +1,11 @@
 .experiencia {
-  display: flex;
-  flex-direction: column;
-  padding: 5rem 4.28rem;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  max-width: 1200px;
+  padding: 2.5rem 1.25rem;
+  margin: 0 auto;
   color: #c9cacf;
+  gap: 16px;
 }
 
 .title-experiencia {
@@ -19,4 +22,37 @@
 
 .item-list p {
   margin-left: 1rem;
+}
+
+@media (max-width: 1000px) {
+  .experiencia {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .title-experiencia {
+    font-size: 2.5rem;
+  }
+  .item-list svg {
+    width: 32px;
+  }
+}
+
+@media (max-width: 600px) {
+  .experiencia {
+    grid-template-columns: 1fr;
+  }
+
+  .experiencia h2 {
+    font-size: 1.8rem;
+    line-height: 1.8;
+    text-align: center;
+  }
+
+  .experiencia p {
+    font-size: 1rem;
+  }
+
+  .experience-list {
+    margin: 0 auto;
+  }
 }
