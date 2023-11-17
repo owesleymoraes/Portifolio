@@ -29,15 +29,23 @@ Nesta versão inicial, estabeleci apenas o header da página.
 
 ### Versão Atual: 1.0.1
 Nesta versão, foi desenvovido uma breve introdução sobre mim como desenvolvedor.
+
 ![Versão 1.0.1](img/introducao-portifolio.png)
 
 ### Versão Atual: 1.0.2
 Nesta versão, foi desenvovido minhas experiências como desenvolvedor de software.
+
 ![Versão 1.0.2](img/experience-portifolio.png)
 
 ### Versão Atual: 1.0.3
 Nesta versão, foi desenvovido minhas competências como desenvolvedor de software.
-![Versão 1.0.2](img/competence-portifolio.png)
+
+![Versão 1.0.3](img/competence-portifolio.png)
+
+### Versão Atual: 1.0.4
+Nesta versão, foi desenvovido minhas competências como desenvolvedor de software.
+
+![Versão 1.0.4](img/formation-portifolio.png)
 
 ### Próximos Passos
 Estou constantemente evoluindo este projeto. Os próximos passos incluem:

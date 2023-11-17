@@ -2,11 +2,12 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   max-width: 1200px;
-  height: 19rem;
+  height: 18rem;
   padding: 2.5rem 1.25rem;
   margin: 0 auto;
   background-color: #232730;
   gap: 6.25rem;
+  margin-bottom: 2rem;
 }
 
 .competence h2 {
