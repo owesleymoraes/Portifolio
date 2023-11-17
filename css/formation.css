@@ -1,0 +1,74 @@
+.formation {
+  background-color: #02394b;
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+}
+
+.formation-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1200px;
+  height: 30rem;
+  padding: 2.5rem 1.25rem;
+  margin: 0 auto;
+  gap: 6.25rem;
+}
+
+.title-formation {
+  color: #187b9c;
+  font-size: 8rem;
+  line-height: 1.1;
+  text-transform: uppercase;
+  word-break: break-all;
+  max-width: 6ch;
+  margin-bottom: 2rem;
+}
+
+.block-information {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.text-formation {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #c9cacf;
+  margin-left: 1rem;
+}
+
+.text-formation ::before {
+  content: "";
+  position: absolute;
+  width: 3px;
+  height: 14rem;
+  background-color: #ff5722; /* Cor da barra, ajuste conforme necessário */
+  top: 0;
+  left: 0;
+  margin-top: 4px;
+}
+
+.container-course {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.course {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  width: 12.5rem;
+  height: 10.5rem;
+  background-color: #034c64;
+  border-radius: 5px;
+  margin-top: 3rem;
+}
+
+.course strong {
+  color: #f5f5f5;
+}
+
+.course p {
+  color: #b0b8bf;
+}
