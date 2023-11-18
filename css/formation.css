@@ -1,7 +1,7 @@
 .formation {
   background-color: #02394b;
   margin-top: 8rem;
-  margin-bottom: 8rem;
+  margin-bottom: 2rem;
 }
 
 .formation-container {
@@ -71,4 +71,65 @@
 
 .course p {
   color: #b0b8bf;
+}
+
+@media (max-width: 1150px) {
+  .formation-container {
+    grid-template-columns: 1fr;
+    height: auto;
+    gap: 1rem;
+  }
+
+  .title-formation {
+    font-size: 5rem;
+    line-height: 1.1;
+    text-transform: uppercase;
+    word-break: normal;
+    margin-bottom: 1rem;
+  }
+
+  .text-formation {
+    font-size: 1.4rem;
+    line-height: 1.5;
+  }
+
+  .text-formation ::before {
+    display: none;
+  }
+
+  .container-course {
+    display: flex;
+    justify-content: space-around;
+  }
+}
+
+@media (max-width: 600px) {
+  .formation {
+    margin-top: 0rem;
+  }
+
+  .formation-container {
+    gap: 0.5rem;
+  }
+
+  .title-formation {
+    font-size: 3rem;
+    margin-left: 1rem;
+    margin-bottom: 0rem;
+  }
+
+  .text-formation {
+    font-size: 1.1rem;
+    line-height: 1.5;
+  }
+  .container-course {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 500px) {
+  .title-formation {
+    font-size: 2.2rem;
+  }
 }

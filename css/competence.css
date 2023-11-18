@@ -40,7 +40,7 @@
 @media (max-width: 900px) {
   .competence {
     grid-template-columns: 1fr;
-    height: 36rem;
+    height: auto;
   }
   .competence h2 {
     font-size: 2rem;
@@ -58,8 +58,14 @@
 
 @media (max-width: 500px) {
   .competence {
-    height: 54rem;
+    margin-bottom: 0px;
   }
+
+  .competence h2 {
+    font-size: 1.66rem;
+    margin-bottom: 2rem;
+  }
+
   .tecnologia {
     margin-top: 0px;
     grid-template-columns: 1fr;

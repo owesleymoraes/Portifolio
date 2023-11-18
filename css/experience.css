@@ -52,13 +52,13 @@
   .experiencia {
     grid-template-columns: 1fr;
     gap: 2rem;
-    border: 1px solid red;
   }
 
   .title-experiencia {
     word-break: normal;
     margin-bottom: 0px;
     font-size: 1.8rem;
+    margin-left: 8px;
   }
 
   .experiencia p {
