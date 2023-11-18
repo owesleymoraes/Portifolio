@@ -47,23 +47,38 @@ Nesta versão, foi desenvovido minha formação acadêmica.
 
 ![Versão 1.0.4](img/formation-portifolio.png)
 
-### Versão Atual: 1.0.4
-Nesta versão, foi desenvovido minha formação acadêmica.
+### Versão Atual: 1.0.5
+Nesta versão, foi desenvovido minha formas de buscar crescimento profissional na área.
 
 ![Versão 1.0.5](img/cources-and-book-portifolio.png)
 
-### Versão Atual: 1.0.5
-Nesta versão, foi desenvovido minha formas de buscar crescimento profissional na área.
+### Versão Atual: 1.0.6
+Nesta versão, foi desenvovido o footer do portifólio.
+
+![Versão 1.0.6](img/footer.png)
+
+### Versão Atual: 1.0.7
+Nesta versão, é mostrado o portifólio para diferentes dispositivos: Mobile, IPhone 5, IPhone 11
+
+![Versão 1.0.7](img/mobile.png)
+
+![Versão 1.0.7](img/i-phone-5.png)
+
+![Versão 1.0.7](img/i-phone-11.png)
+
+
+
 
 ### Próximos Passos
 Estou constantemente evoluindo este projeto. Os próximos passos incluem:
 
-- header.                    (X)
-- introdução.                (X)
+- Header.                    (X)
+- Introdução.                (X)
 - Experiência                (X)
 - Competências               (X)
 - Formação                   (X)
-- informações pessoais.      ( )
+- Informações pessoais.      (X)
+- Responsividade.            (X)
 
 Fique atento para futuras atualizações e melhorias!
 
