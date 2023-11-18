@@ -1,0 +1,51 @@
+.studies {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1200px;
+  height: 30rem;
+  padding: 2.5rem 1.25rem;
+  margin: 0 auto;
+  gap: 6.25rem;
+}
+
+.studies-title {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.studies-title h2 {
+  font-size: 2rem;
+  text-wrap: nowrap;
+  margin-right: 0.5rem;
+  color: #7a7a7a;
+}
+
+.studies-skills li {
+  text-wrap: nowrap;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #f2f2f2;
+}
+
+@media (max-width: 660px) {
+  .studies {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .studies {
+    column-gap: 2.5rem;
+    row-gap: 0rem;
+  }
+
+  .studies-title h2 {
+    font-size: 1.5rem;
+  }
+
+  .studies-skills li {
+    font-size: 1rem;
+    margin-bottom: 0.8rem;
+  }
+}
