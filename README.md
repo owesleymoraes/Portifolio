@@ -47,6 +47,14 @@ Nesta versão, foi desenvovido minha formação acadêmica.
 
 ![Versão 1.0.4](img/formation-portifolio.png)
 
+### Versão Atual: 1.0.4
+Nesta versão, foi desenvovido minha formação acadêmica.
+
+![Versão 1.0.5](img/cources-and-book-portifolio.png)
+
+### Versão Atual: 1.0.5
+Nesta versão, foi desenvovido minha formas de buscar crescimento profissional na área.
+
 ### Próximos Passos
 Estou constantemente evoluindo este projeto. Os próximos passos incluem:
 
