@@ -104,9 +104,9 @@
 }
 
 @media (max-width: 600px) {
-.formation {
-  margin-top: 0rem;
-}
+  .formation {
+    margin-top: 0rem;
+  }
 
   .formation-container {
     gap: 0.5rem;
@@ -125,5 +125,11 @@
   .container-course {
     flex-direction: column;
     align-items: center;
+  }
+}
+
+@media (max-width: 500px) {
+  .title-formation {
+    font-size: 2.2rem;
   }
 }

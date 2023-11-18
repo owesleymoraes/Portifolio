@@ -57,9 +57,13 @@
 }
 
 @media (max-width: 500px) {
-
   .competence {
     margin-bottom: 0px;
+  }
+
+  .competence h2 {
+    font-size: 1.66rem;
+    margin-bottom: 2rem;
   }
 
   .tecnologia {

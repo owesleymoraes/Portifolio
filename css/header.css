@@ -48,6 +48,7 @@
 
 @media (max-width: 480px) {
   .header-menu a {
+    font-size: 14px;
     margin: 0.5rem 0.5rem;
   }
 }

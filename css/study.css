@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   max-width: 1200px;
-  height: 30rem;
+  height: 14rem;
   padding: 2.5rem 1.25rem;
   margin: 0 auto;
   gap: 6.25rem;
@@ -31,6 +31,8 @@
 @media (max-width: 660px) {
   .studies {
     grid-template-columns: 1fr;
+    height: auto;
+    row-gap: 2.5rem;
   }
 }
 
