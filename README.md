@@ -33,17 +33,17 @@ Nesta versão, foi desenvovido uma breve introdução sobre mim como desenvolved
 ![Versão 1.0.1](img/introducao-portifolio.png)
 
 ### Versão Atual: 1.0.2
-Nesta versão, foi desenvovido minhas experiências como desenvolvedor de software.
+Nesta versão, foi desenvovido minhas experiências como desenvolvedor.
 
 ![Versão 1.0.2](img/experience-portifolio.png)
 
 ### Versão Atual: 1.0.3
-Nesta versão, foi desenvovido minhas competências como desenvolvedor de software.
+Nesta versão, foi desenvovido minhas competências como desenvolvedor.
 
 ![Versão 1.0.3](img/competence-portifolio.png)
 
 ### Versão Atual: 1.0.4
-Nesta versão, foi desenvovido minhas competências como desenvolvedor de software.
+Nesta versão, foi desenvovido minha formação acadêmica.
 
 ![Versão 1.0.4](img/formation-portifolio.png)
 
